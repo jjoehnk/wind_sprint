@@ -1,5 +1,5 @@
-# Wind Sprint
-General Assembly Data Sprint on the Wind Turbine Market
+# Wind Market Data Sprint
+One week data sprint where our goal was to assess the strength of the U.S. wind power market and determine a potential investment portfolio for a clean energy equity firm. 
 <p>Julia Eager, Andrew Collie, and Jonas Joehnk</p>
 
 ## Getting Started
