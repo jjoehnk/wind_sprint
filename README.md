@@ -1,6 +1,6 @@
 # Wind Sprint
-General Assembly Data Sprint on the Wind Turbine Market\n
-*by Julia Eager, Andrew Collie, and Jonas Joehnk*
+General Assembly Data Sprint on the Wind Turbine Market
+<p>*by Julia Eager, Andrew Collie, and Jonas Joehnk*</p>
 
 ## Getting Started
 1. [Trello](https://trello.com/b/Byj3sNaH/wind-market-sprint)
