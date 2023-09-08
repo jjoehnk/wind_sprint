@@ -4,6 +4,5 @@ General Assembly Data Sprint on the Wind Turbine Market
 
 ## Getting Started
 1. [Trello](https://trello.com/b/Byj3sNaH/wind-market-sprint)
-2. [Presentation Deck](https://github.com/jjoehnk/wind_sprint/blob/main/Wind%20Market%20Investment%20Deck.pdf)
-
-<iframe src="https://drive.google.com/drive/u/1/folders/1CtjxWWHOfBIQzbQH-17abWYl_2jH1fFo" width="100%" height="500" frameborder="0" />
+2. [Presentation Deck](https://drive.google.com/file/d/1vB5rsYZ9o1WGf3OeWRQ6QBbKfWyCE_6t/view?usp=drive_link)
+3. [Dashboard](https://drive.google.com/file/d/1ik7icn7V1s0j0ztmtRsQmGwQJq_V0Nc9/view?usp=sharing)
